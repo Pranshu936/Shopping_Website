@@ -108,5 +108,3 @@ Contributions are welcome! Please follow these steps:
 
 ---
 
-Feel free to modify and extend this project as needed. Happy coding!
-
